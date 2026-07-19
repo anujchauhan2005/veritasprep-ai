@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What Power BI project has this candidate built?",
+    "relevant_ids": ["chunk_0"]
+  },
+  {
+    "question": "Does this candidate know SQL?",
+    "relevant_ids": ["chunk_0", "chunk_1"]
+  },
+  {
+    "question": "What generative AI or RAG project have they built?",
+    "relevant_ids": ["chunk_2"]
+  }
+]

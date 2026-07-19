@@ -1,0 +1,24 @@
+# Secrets
+.env
+backend/.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Local databases (rebuilt automatically)
+chroma_db/
+backend/chroma_db/
+*.db
+
+# Uploaded resumes (personal data)
+data/*.pdf
+backend/data/*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
